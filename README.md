@@ -1,5 +1,3 @@
-# ruiterwi.github.io
-hw 4
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -10,6 +8,6 @@ hw 4
         <p style="font-style: italic;">This is the paragraph tag</p>
         <h2>This is the second heading</h2><br>
 
-        <img src="html-5.png" width="200" height="200">
+        <img src="![ty](https://github.com/user-attachments/assets/ece46a83-b310-437d-a9e6-2b40e5345fe5)" width="200" height="200">
     </body>
 </html>
