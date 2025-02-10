@@ -16,8 +16,7 @@
    
     <h1>My life</h1>
 
-    <!-- Make sure the full base64 string is used -->
-    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…khFAN45KLaZ2gIQnQiL26TqkDOg05oQl3K7EHE8j7IQhIZ//Z" alt="A scenic view of Holland, MI">
+    <img src="" alt="My home!">
     
     <p>I am a junior at MSU and I am from Holland, MI. I like to hike, listen to music, hang out with friends, and watch basketball.</p>
     
