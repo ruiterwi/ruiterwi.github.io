@@ -28,6 +28,7 @@
         <li><a href="https://www.michigan.gov/dnr/education/michigan-species/fish-species/coho-salmon">Coho Salmon</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Bluegill">Bluegill</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Yellow_perch">Yellow Perch</a></li>
+    </ol>
     
 </body>
 </html>
