@@ -3,14 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>This is my 1st website :D</title>
 </head>
 <body>
-    <h1>Homework #4</h1>
-    <p>This is the paragraph tag</p>
+    <h1>Some stuff about me</h1>
+    <h2>My life</h2>
     
-    <h2>This is the second heading</h2>
+    <p>I am a junior at MSU and I am from Holland, MI. I like to hike, listen to music, hang out with friends, and watch basketball.</p>
     
-    <img src="html-5.png" width="200" height="200" alt="HTML5 Logo">
+    <h2>The best fish to eat</h2>
+
+    <p>I think that fish is the best food. You can make different kinds of dishes from around the world with different fish. To rank these fish, I like to think how good it is raw, cooked, and how it looks.</p>
+    
+    
 </body>
 </html>
